@@ -1,6 +1,13 @@
 # Task Management System with AI
+![image](https://github.com/user-attachments/assets/2275552e-0473-4162-a05f-297d9071a414)
+![image](https://github.com/user-attachments/assets/adf40286-f86e-4c8f-b89a-7e234f2d1ac5)
+![image](https://github.com/user-attachments/assets/505fd34d-999f-462a-beeb-ee505622dfa1)
+
+## Technology
+
 
 A RESTful API built with Node.js, Express.js, and MongoDB for managing tasks with AI-powered task summaries.
+
 
 ## Features
 
